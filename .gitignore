@@ -1,0 +1,5 @@
+src/client_secret.json
+src/credentials.json
+.DS_Store
+.env.local
+.VSCode
